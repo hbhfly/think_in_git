@@ -1,4 +1,4 @@
-gnuhub_git
+Think In Git
 ==========
 
 just for Think In Git
